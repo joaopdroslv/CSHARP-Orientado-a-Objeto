@@ -1,0 +1,15 @@
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\TratamentoExcessaoConta\obj\Debug\net6.0\TratamentoExcessaoConta.csproj.AssemblyReference.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\TratamentoExcessaoConta\obj\Debug\net6.0\TratamentoExcessaoConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\TratamentoExcessaoConta\obj\Debug\net6.0\TratamentoExcessaoConta.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\TratamentoExcessaoConta\obj\Debug\net6.0\TratamentoExcessaoConta.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\TratamentoExcessaoConta\obj\Debug\net6.0\TratamentoExcessaoConta.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\TratamentoExcessaoConta\bin\Debug\net6.0\TratamentoExcessaoConta.exe
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\TratamentoExcessaoConta\bin\Debug\net6.0\TratamentoExcessaoConta.deps.json
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\TratamentoExcessaoConta\bin\Debug\net6.0\TratamentoExcessaoConta.runtimeconfig.json
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\TratamentoExcessaoConta\bin\Debug\net6.0\TratamentoExcessaoConta.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\TratamentoExcessaoConta\bin\Debug\net6.0\TratamentoExcessaoConta.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\TratamentoExcessaoConta\obj\Debug\net6.0\TratamentoExcessaoConta.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\TratamentoExcessaoConta\obj\Debug\net6.0\refint\TratamentoExcessaoConta.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\TratamentoExcessaoConta\obj\Debug\net6.0\TratamentoExcessaoConta.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\TratamentoExcessaoConta\obj\Debug\net6.0\TratamentoExcessaoConta.genruntimeconfig.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\TratamentoExcessaoConta\obj\Debug\net6.0\ref\TratamentoExcessaoConta.dll

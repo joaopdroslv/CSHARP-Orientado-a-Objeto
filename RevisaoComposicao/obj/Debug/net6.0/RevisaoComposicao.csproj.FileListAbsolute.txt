@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\POO_noite\RevisaoComposicao\bin\Debug\net6.0\RevisaoComposicao.exe
+C:\Users\Aluno\Downloads\POO_noite\RevisaoComposicao\bin\Debug\net6.0\RevisaoComposicao.deps.json
+C:\Users\Aluno\Downloads\POO_noite\RevisaoComposicao\bin\Debug\net6.0\RevisaoComposicao.runtimeconfig.json
+C:\Users\Aluno\Downloads\POO_noite\RevisaoComposicao\bin\Debug\net6.0\RevisaoComposicao.dll
+C:\Users\Aluno\Downloads\POO_noite\RevisaoComposicao\bin\Debug\net6.0\RevisaoComposicao.pdb
+C:\Users\Aluno\Downloads\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.dll
+C:\Users\Aluno\Downloads\POO_noite\RevisaoComposicao\obj\Debug\net6.0\refint\RevisaoComposicao.dll
+C:\Users\Aluno\Downloads\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.pdb
+C:\Users\Aluno\Downloads\POO_noite\RevisaoComposicao\obj\Debug\net6.0\RevisaoComposicao.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\POO_noite\RevisaoComposicao\obj\Debug\net6.0\ref\RevisaoComposicao.dll

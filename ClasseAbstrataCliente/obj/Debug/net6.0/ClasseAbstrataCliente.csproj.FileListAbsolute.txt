@@ -1,0 +1,15 @@
+C:\Users\aluno\Downloads\POO_noite\ClasseAbstrataCliente\bin\Debug\net6.0\ClasseAbstrataCliente.exe
+C:\Users\aluno\Downloads\POO_noite\ClasseAbstrataCliente\bin\Debug\net6.0\ClasseAbstrataCliente.deps.json
+C:\Users\aluno\Downloads\POO_noite\ClasseAbstrataCliente\bin\Debug\net6.0\ClasseAbstrataCliente.runtimeconfig.json
+C:\Users\aluno\Downloads\POO_noite\ClasseAbstrataCliente\bin\Debug\net6.0\ClasseAbstrataCliente.dll
+C:\Users\aluno\Downloads\POO_noite\ClasseAbstrataCliente\bin\Debug\net6.0\ClasseAbstrataCliente.pdb
+C:\Users\aluno\Downloads\POO_noite\ClasseAbstrataCliente\obj\Debug\net6.0\ClasseAbstrataCliente.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\POO_noite\ClasseAbstrataCliente\obj\Debug\net6.0\ClasseAbstrataCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO_noite\ClasseAbstrataCliente\obj\Debug\net6.0\ClasseAbstrataCliente.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO_noite\ClasseAbstrataCliente\obj\Debug\net6.0\ClasseAbstrataCliente.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO_noite\ClasseAbstrataCliente\obj\Debug\net6.0\ClasseAbstrataCliente.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO_noite\ClasseAbstrataCliente\obj\Debug\net6.0\ClasseAbstrataCliente.dll
+C:\Users\aluno\Downloads\POO_noite\ClasseAbstrataCliente\obj\Debug\net6.0\refint\ClasseAbstrataCliente.dll
+C:\Users\aluno\Downloads\POO_noite\ClasseAbstrataCliente\obj\Debug\net6.0\ClasseAbstrataCliente.pdb
+C:\Users\aluno\Downloads\POO_noite\ClasseAbstrataCliente\obj\Debug\net6.0\ClasseAbstrataCliente.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO_noite\ClasseAbstrataCliente\obj\Debug\net6.0\ref\ClasseAbstrataCliente.dll

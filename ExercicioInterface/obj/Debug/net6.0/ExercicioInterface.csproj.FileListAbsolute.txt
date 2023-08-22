@@ -1,0 +1,30 @@
+C:\Users\aluno\Downloads\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.csproj.AssemblyReference.cache
+C:\Users\aluno\Downloads\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.AssemblyInfo.cs
+C:\Users\aluno\Downloads\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\POO_noite\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.exe
+C:\Users\aluno\Downloads\POO_noite\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.deps.json
+C:\Users\aluno\Downloads\POO_noite\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.runtimeconfig.json
+C:\Users\aluno\Downloads\POO_noite\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.dll
+C:\Users\aluno\Downloads\POO_noite\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.pdb
+C:\Users\aluno\Downloads\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.dll
+C:\Users\aluno\Downloads\POO_noite\ExercicioInterface\obj\Debug\net6.0\refint\ExercicioInterface.dll
+C:\Users\aluno\Downloads\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.pdb
+C:\Users\aluno\Downloads\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.genruntimeconfig.cache
+C:\Users\aluno\Downloads\POO_noite\ExercicioInterface\obj\Debug\net6.0\ref\ExercicioInterface.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.exe
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.deps.json
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.runtimeconfig.json
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\ExercicioInterface\bin\Debug\net6.0\ExercicioInterface.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.csproj.AssemblyReference.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\ExercicioInterface\obj\Debug\net6.0\refint\ExercicioInterface.dll
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.pdb
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\ExercicioInterface\obj\Debug\net6.0\ExercicioInterface.genruntimeconfig.cache
+C:\Users\joaop\OneDrive\Área de Trabalho\POO_noite\ExercicioInterface\obj\Debug\net6.0\ref\ExercicioInterface.dll

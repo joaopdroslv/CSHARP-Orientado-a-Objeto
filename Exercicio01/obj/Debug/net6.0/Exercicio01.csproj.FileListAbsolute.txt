@@ -1,0 +1,10 @@
+C:\Users\Aluno\Downloads\POO_noite\Exercicio01\obj\Debug\net6.0\Exercicio01.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\POO_noite\Exercicio01\obj\Debug\net6.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\POO_noite\Exercicio01\obj\Debug\net6.0\Exercicio01.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\POO_noite\Exercicio01\obj\Debug\net6.0\Exercicio01.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\POO_noite\Exercicio01\obj\Debug\net6.0\Exercicio01.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\POO_noite\ExercicioStaticFunc\obj\Debug\net6.0\Exercicio01.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\POO_noite\ExercicioStaticFunc\obj\Debug\net6.0\Exercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\POO_noite\ExercicioStaticFunc\obj\Debug\net6.0\Exercicio01.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\POO_noite\ExercicioStaticFunc\obj\Debug\net6.0\Exercicio01.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\POO_noite\ExercicioStaticFunc\obj\Debug\net6.0\Exercicio01.csproj.CoreCompileInputs.cache

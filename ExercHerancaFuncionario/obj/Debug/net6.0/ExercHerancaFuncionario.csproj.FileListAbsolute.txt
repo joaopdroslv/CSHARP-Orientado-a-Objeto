@@ -1,0 +1,15 @@
+C:\Users\Aluno\Downloads\POO_noite\ExercHerancaFuncionario\obj\Debug\net6.0\ExercHerancaFuncionario.csproj.AssemblyReference.cache
+C:\Users\Aluno\Downloads\POO_noite\ExercHerancaFuncionario\obj\Debug\net6.0\ExercHerancaFuncionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Downloads\POO_noite\ExercHerancaFuncionario\obj\Debug\net6.0\ExercHerancaFuncionario.AssemblyInfoInputs.cache
+C:\Users\Aluno\Downloads\POO_noite\ExercHerancaFuncionario\obj\Debug\net6.0\ExercHerancaFuncionario.AssemblyInfo.cs
+C:\Users\Aluno\Downloads\POO_noite\ExercHerancaFuncionario\obj\Debug\net6.0\ExercHerancaFuncionario.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Downloads\POO_noite\ExercHerancaFuncionario\bin\Debug\net6.0\ExercHerancaFuncionario.exe
+C:\Users\Aluno\Downloads\POO_noite\ExercHerancaFuncionario\bin\Debug\net6.0\ExercHerancaFuncionario.deps.json
+C:\Users\Aluno\Downloads\POO_noite\ExercHerancaFuncionario\bin\Debug\net6.0\ExercHerancaFuncionario.runtimeconfig.json
+C:\Users\Aluno\Downloads\POO_noite\ExercHerancaFuncionario\bin\Debug\net6.0\ExercHerancaFuncionario.dll
+C:\Users\Aluno\Downloads\POO_noite\ExercHerancaFuncionario\bin\Debug\net6.0\ExercHerancaFuncionario.pdb
+C:\Users\Aluno\Downloads\POO_noite\ExercHerancaFuncionario\obj\Debug\net6.0\ExercHerancaFuncionario.dll
+C:\Users\Aluno\Downloads\POO_noite\ExercHerancaFuncionario\obj\Debug\net6.0\refint\ExercHerancaFuncionario.dll
+C:\Users\Aluno\Downloads\POO_noite\ExercHerancaFuncionario\obj\Debug\net6.0\ExercHerancaFuncionario.pdb
+C:\Users\Aluno\Downloads\POO_noite\ExercHerancaFuncionario\obj\Debug\net6.0\ExercHerancaFuncionario.genruntimeconfig.cache
+C:\Users\Aluno\Downloads\POO_noite\ExercHerancaFuncionario\obj\Debug\net6.0\ref\ExercHerancaFuncionario.dll
